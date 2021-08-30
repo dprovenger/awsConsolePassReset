@@ -39,7 +39,7 @@ This project will serve as the foundation of additional automation. This will be
 ## Authors
 
 Jorge Arrieta 
-[email](jorge.r.arrieta.jr@gmail.com)
+jorge.r.arrieta.jr@gmail.com
 
 ## Version History
 
